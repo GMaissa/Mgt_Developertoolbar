@@ -1,0 +1,19 @@
+# Comments are supported, begin a line with a hash
+# Modules
+htdocs/app/code/community/Mgt/DeveloperToolbar     app/code/community/Mgt/DeveloperToolbar
+
+# Design
+htdocs/design/adminhtml/default/default/layout/mgt_developertoolbar.xml    design/adminhtml/default/default/layout/mgt_developertoolbar.xml
+htdocs/design/adminhtml/default/default/template/mgt_developertoolbar      design/adminhtml/default/default/template/mgt_developertoolbar
+htdocs/design/frontend/default/default/layout/mgt_developertoolbar.xml     design/frontend/default/default/layout/mgt_developertoolbar.xml
+htdocs/design/frontend/default/default/template/mgt_developertoolbar       design/frontend/default/default/template/mgt_developertoolbar
+
+# Config
+htdocs/app/etc/modules/Mgt_DeveloperToolbar.xml    app/etc/modules/Mgt_DeveloperToolbar.xml
+
+# Js
+htdocs/js/mgt_developertoolbar     js/mgt_developertoolbar
+
+# Medias
+htdocs/media/mgt_developertoolbar  media/mgt_delelopertoolbar
+
