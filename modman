@@ -15,5 +15,5 @@ htdocs/app/etc/modules/Mgt_DeveloperToolbar.xml    app/etc/modules/Mgt_Developer
 htdocs/js/mgt_developertoolbar     js/mgt_developertoolbar
 
 # Medias
-htdocs/media/mgt_developertoolbar  media/mgt_delelopertoolbar
+htdocs/media/mgt_developertoolbar  media/mgt_developertoolbar
 
