@@ -5,6 +5,12 @@
     "description":"MGT-Commerce Magento developer toolbar",
     "homepage": "https://github.com/mgtcommerce/Mgt_Developertoolbar",
     "keywords": ["magento", "developer toolbar"],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/magento-hackathon/magento-composer-installer"
+        }
+    ],
     "authors":[
         {
             "name":"MGT-Commerce",
